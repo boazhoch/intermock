@@ -1,0 +1,1 @@
+{"version":3,"file":"import.js","sourceRoot":"","sources":["../../../../../test/ts/test-data/importExportSpecifier/import.ts"],"names":[],"mappings":";;;AAQA,MAAM,6BAA6B,GAAG;IACpC,GAAG,EAAE;QACH,QAAQ,EACJ,kMAAkM;QACtM,QAAQ,EAAE,KAAK;QACf,QAAQ,EAAE;YACR,QAAQ,EACJ,kMAAkM;YACtM,QAAQ,EAAE,KAAK;YACf,QAAQ,EAAE,IAAI;SACf;KACF;CACF,CAAC;AAEM,sEAA6B"}
